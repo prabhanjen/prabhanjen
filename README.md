@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prabhanjen!
 
-- 👀 **Interests**: Cybersecurity, Network Security, and Ethical Hacking.
-- 🌱 **Currently Learning**: Computer Science Engineering with a focus on cybersecurity.
+- 👀 **Interests**: Cybersecurity .
+- 🌱 **Currently Learning**: Computer Science Engineering .
 - 💞️ **Looking to Collaborate On**: Projects that challenge and help sharpen my skills in cybersecurity and programming.
 - 📫 **How to Reach Me**: [bprabhanjen@gmail.com](mailto:bprabhanjen@gmail.com)
 - 😄 **Pronouns**: He/Him
